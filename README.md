@@ -1,5 +1,3 @@
-### **Five-in-a-Row Game (Gomoku)**
-
 **Description:**
 
 The Five-in-a-Row (Gomoku) game is a classic board game played on a 15x15 grid. The objective is for one player to align five of their marks (either "X" or "O") in a row, either horizontally, vertically, or diagonally, before their opponent does. This project is implemented in Java and is suitable for beginners to practice object-oriented programming concepts and GUI development.
